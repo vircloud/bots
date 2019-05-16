@@ -45,3 +45,8 @@ service nginx reload
 
 
 444 狀態碼說明：直接由服務器中斷連接，不會向客戶端再返回任何消息，此為 nginx 獨有。
+
+
+更多方法参见：[网站如何屏蔽垃圾蜘蛛爬取？](https://vircloud.net/operations/site-deny-bot.html)
+
+
